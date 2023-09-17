@@ -1,0 +1,18 @@
+aio_westwood_city - All in one
+
+by klin34970 creator of aio maps
+http://steamcommunity.com/id/klin34970
+
+AIO maps contain :
+- A theme (western).
+- Customs players models (cowboys).
+- Some funny events (jail, sheriff, hanged,...).
+- One plugin for improve the map (aio_westwood_city.smx)
+
+~ All for a total immersion ~
+
+This plugin allow a duel when there is 1CT vs 1T.
+A menu appears : Do you want duel? 
+[yes] or [no].
+If everyone accept you will be teleported on a duel zone with countdown and random guns.
+ 
